@@ -1,5 +1,5 @@
 # Halo Semua! 👋
-Perkenalkan nama saya **Muhammad Ramdhan**.\
+Allow me to introduce myself, my name is **Muhammad Ramdhan**.\
 A Physics Education undergraduate student at Ahmad
 Dahlan University (UAD), class of 2018. I've created basic Android applications
 from college assignments that are now available on the Google Play Store under
