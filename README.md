@@ -11,3 +11,10 @@ curiosity in learning more about Android application development.
 - 💬 Ask me about Latest Tech, i love it! 
 - 📫 How to reach me: muhammadramdhan541@gmail.com
 - ⚡ Fun fact: My Head full of Idea
+
+<p align="left">
+<a href="https://github.com/Dhanfinix">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhanfinix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhanfinix&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
