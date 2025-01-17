@@ -1,15 +1,12 @@
 # Halo Semua! 👋
-Allow me to introduce myself, my name is **Muhammad Ramdhan**.\
-A Physics Education undergraduate student at Ahmad
-Dahlan University (UAD), class of 2018. I've created basic Android applications
-from college assignments that are now available on the Google Play Store under
-the name "All in One Nuclear Physics App (AONPA)." This encounter piqued my
-curiosity in learning more about Android application development.
+Hi, I'm Muhammad Ramdhan.
+I'm an Android Developer with over 2 years of professional experience. Currently, I work as an Associate Android Developer at EDTS, where I focus on creating robust, user-centric mobile applications.
 
-- 🔭 I’m currently working on EEPA (Easy Elementary Particle App) for my Undergraduate Thesis
-- 🌱 I’m currently learning at Bangkit 2022 taking Andorid Learning Path
-- 💬 Ask me about Latest Tech, i love it! 
-- 📫 How to reach me: muhammadramdhan541@gmail.com
+Previously, I contributed as a Technology Management Trainee, gaining valuable experience on projects such as Poinku (Indomaret), LPI (Sugarcane Agricultural Administration System), and eMart (mini self-service mart).
+
+I graduated from Universitas Ahmad Dahlan in 2022, and during my studies, I honed my skills in Mobile Development through the prestigious Bangkit Academy led by Google, Tokopedia, Gojek, and Traveloka. This program further solidified my passion for creating impactful mobile solutions.
+
+I'm passionate about utilizing modern libraries and best practices to craft efficient Android applications that improve user experiences.
 
 <p align="left">
 <a href="https://github.com/Dhanfinix">
