@@ -1,6 +1,6 @@
 # Halo Semua! 👋
 Hi, I'm Muhammad Ramdhan.
-I'm an Android Developer with over 2 years of professional experience. Currently, I work as an Associate Android Developer at EDTS, where I focus on creating robust, user-centric mobile applications.
+I'm an Android Developer with over 2 years of professional experience. Currently, I work as an Senior Associate Android Developer at EDTS, where I focus on creating robust, user-centric mobile applications.
 
 Previously, I contributed as a Technology Management Trainee, gaining valuable experience on projects such as Poinku (Indomaret), LPI (Sugarcane Agricultural Administration System), and eMart (mini self-service mart).
 
